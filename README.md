@@ -30,3 +30,10 @@ Welcome... to the GAME!
 ---
 
 ### Gallery
+Game Flow
+![flashcardsgif](https://user-images.githubusercontent.com/90876852/152447083-22b5c9b3-e6e1-4205-865e-643cd13dd5df.gif)
+
+
+
+Special Treat if you get 90% correct
+![image](https://user-images.githubusercontent.com/90876852/152446949-d6361e8a-e732-42d8-b807-3343b402ca27.png)
